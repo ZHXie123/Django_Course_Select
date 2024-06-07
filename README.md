@@ -35,9 +35,9 @@ wheel             0.43.0
 
 ## 效果
 
-![alt text](TestImage/image.png)
+![alt text](./TestImage/image.png)
 
-![alt text](TestImage/image3.png)
+![alt text](./TestImage/image3.png)
 
 ![alt text](TestImage/image1.png)
 
