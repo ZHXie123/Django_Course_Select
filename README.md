@@ -50,4 +50,4 @@ wheel             0.43.0
 
 ![alt text](TestImage/image7.png)
 
-![alt text][(TestImage/image8.png)](https://github.com/ZHXie123/Django_Course_select/blob/main/TestImage/image20.png)
+![alt text](TestImage/image8.png)
